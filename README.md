@@ -1,3 +1,26 @@
 # git-prefix-display
 
-This program show samples of prefix of commit messages.
+git-prefix-displayはGitのコミットメッセージのプレフィックス候補を表示します．ただそれだけです．
+
+# Usage
+インストール後
+```
+gitpr
+```
+コマンドを実行．オプションはありません．
+
+# Install
+上部にある緑色のCodeボタンをクリックし，Download ZIPをクリックしてコードをダウンロード．解凍後そのディレクトリ内で
+```
+make install
+```
+コマンドを実行．
+（もちろん普通にクローンしても問題なし）
+
+# Author
+つよぽん
+
+# Attention
+このソフトウェアを使用したことによって生じたすべての障害・損害・不具
+合等に関しては、私と私の関係者および私の所属するいかなる団体・組織とも、
+一切の責任を負いません。
